@@ -1,0 +1,10 @@
+.thankyou {
+  color: black;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  padding-top: 15%;
+  width: auto;
+}
+body {
+  background: linear-gradient(rgb(99, 101, 224), #32eee5, #1483ce);
+  /* background-color: rgb(110, 110, 110); */
+}
